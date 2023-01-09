@@ -1,3 +1,0 @@
-Partner - Krish Ramchandani (Spire id - 32836930)
-
-Did mostly all the functions together. Krish ramchandani worked preimarily on the start of player.c and deck.c. Khush Jajoo worked on gofish.c and the end part of player.c
